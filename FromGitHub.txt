@@ -1,4 +1,2 @@
 This is the file I added from GitHum.com
-
-Added some changes from local
-
+This is my coworker adding changes and pushing remote
